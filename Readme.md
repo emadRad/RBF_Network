@@ -1,4 +1,4 @@
-### Assignment PA-C: Radial-Basis-Function network (RBF-network)
+### Radial-Basis-Function network (RBF-network)
 #### Requirement
 * JDK(Java Development Kit) 1.8
 
